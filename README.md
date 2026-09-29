@@ -12,7 +12,7 @@ Next.js 14 (App Router) + TypeScript + Tailwind, PostgreSQL (Neon) with Prisma, 
 ## Test accounts (created by the seed)
 - Admin: admin@textile.test / Admin@123
 - Staff: staff@textile.test / Staff@123
-
+https://pos-billing-software-gules.vercel.app
 ## Access rules
 - `/admin`, `/m` (mobile admin) and `/api/admin/*`: ADMIN only
 - `/billing` and `/api/billing/*`: STAFF and ADMIN
